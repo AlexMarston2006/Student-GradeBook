@@ -1,6 +1,11 @@
 # Student-GradeBook
 Simulate a gradebook using Linked Lists
 
+Input for this program was guaranteed, below is a sample input and output
+Students are added to a linked list representing a class 
+Each node is basically an array holding the information of a student with their name, ID number, and grades
+Commands including adding a record, deleting a record, printing stats for class, printing stats for all classes, and searching for a student by name or their ID number
+
 SAMPLE INPUT AND OUTPUT
 3
 CSC-1980
